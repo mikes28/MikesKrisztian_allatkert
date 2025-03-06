@@ -1,0 +1,15 @@
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/bin/Debug/net8.0/MikesKrisztian_allatkert
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/bin/Debug/net8.0/MikesKrisztian_allatkert.deps.json
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/bin/Debug/net8.0/MikesKrisztian_allatkert.runtimeconfig.json
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/bin/Debug/net8.0/MikesKrisztian_allatkert.dll
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/bin/Debug/net8.0/MikesKrisztian_allatkert.pdb
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/obj/Debug/net8.0/MikesKrisztian_allatkert.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/obj/Debug/net8.0/MikesKrisztian_allatkert.AssemblyInfoInputs.cache
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/obj/Debug/net8.0/MikesKrisztian_allatkert.AssemblyInfo.cs
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/obj/Debug/net8.0/MikesKrisztian_allatkert.csproj.CoreCompileInputs.cache
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/obj/Debug/net8.0/MikesKrisztian_allatkert.sourcelink.json
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/obj/Debug/net8.0/MikesKrisztian_allatkert.dll
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/obj/Debug/net8.0/refint/MikesKrisztian_allatkert.dll
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/obj/Debug/net8.0/MikesKrisztian_allatkert.pdb
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/obj/Debug/net8.0/MikesKrisztian_allatkert.genruntimeconfig.cache
+/home/mikes/Documents/prog/MikesKrisztian_allatkert/obj/Debug/net8.0/ref/MikesKrisztian_allatkert.dll
